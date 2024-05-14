@@ -1,0 +1,29 @@
+{
+  "name": "pickpalette-chromeextension",
+  "version": "1.0.0",
+  "description": "Grab color palette from current tab",
+  "scripts": {
+    "deploy": "node deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NIKHIL0VERMA/PickPalette-ChromeExtension.git"
+  },
+  "keywords": [
+    "Chrome-extension",
+    "color picker",
+    "palette generator",
+    "scrap colors"
+  ],
+  "author": "Nikhil Verma",
+  "bugs": {
+    "url": "https://github.com/NIKHIL0VERMA/PickPalette-ChromeExtension/issues"
+  },
+  "homepage": "https://github.com/NIKHIL0VERMA/PickPalette-ChromeExtension#readme",
+  "devDependencies": {
+    "chrome-webstore-manager": "^0.5.0",
+    "fs-extra": "^11.2.0",
+    "jsonfile": "^6.1.0",
+    "zip-local": "^0.3.5"
+  }
+}
