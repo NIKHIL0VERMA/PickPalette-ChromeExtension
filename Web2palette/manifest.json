@@ -17,7 +17,6 @@
         "48": "./imgs/icon48.png",
         "128": "./imgs/icon128.png"
     },
-    "author": "nikhil2003verma@gmail.com",
     "homepage_url": "https://pickpalette.netlify.app/",
     "minimum_chrome_version" : "107",
     "manifest_version": 3

@@ -5,10 +5,6 @@
   "scripts": {
     "deploy": "node deploy.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NIKHIL0VERMA/PickPalette-ChromeExtension.git"
-  },
   "keywords": [
     "Chrome-extension",
     "color picker",
@@ -16,10 +12,6 @@
     "scrap colors"
   ],
   "author": "Nikhil Verma",
-  "bugs": {
-    "url": "https://github.com/NIKHIL0VERMA/PickPalette-ChromeExtension/issues"
-  },
-  "homepage": "https://github.com/NIKHIL0VERMA/PickPalette-ChromeExtension#readme",
   "devDependencies": {
     "chrome-webstore-manager": "^0.5.0",
     "fs-extra": "^11.2.0",
