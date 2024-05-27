@@ -1,0 +1,23 @@
+{
+    "name" : "Web2Palette",
+    "version": "1.0.0",
+    "version_name": "1.0 dev",
+    "description": "Grab color palette from current tab",
+    "permissions": ["activeTab"],
+    "action": {
+        "default_icon": {
+            "16": "./imgs/icon16.png",
+            "32": "./imgs/icon32.png"
+        },
+        "default_title": "Web2Palette",
+        "default_popup": "pages/popup.html"
+    },
+    "icons": {
+        "16": "./imgs/icon16.png",
+        "48": "./imgs/icon48.png",
+        "128": "./imgs/icon128.png"
+    },
+    "homepage_url": "https://pickpalette.netlify.app/",
+    "minimum_chrome_version" : "107",
+    "manifest_version": 3
+}
